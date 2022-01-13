@@ -1,7 +1,3 @@
-hi
-
-- Currently studying Data Structures, MIPS32 Assembly, C++
-
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
