@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwstaseL
-- 🌱 I’m currently learning Data Structures, MIPS32 Assembly, C++
+- 🌱 I’m an IT Student currently studying Data Structures, MIPS32 Assembly, C++
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
