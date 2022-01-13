@@ -1,5 +1,5 @@
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=purple)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 <!---
 kwstaseL/kwstaseL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
