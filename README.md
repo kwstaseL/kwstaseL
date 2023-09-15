@@ -3,8 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/konstantinos-tsoulas-375079213/)
 
-- 🌱 I’m currently learning and expanding my skills in **full stack development**, with a focus on JavaScript, ReactJS, Node.js, REST APIs, GraphQL, and database management.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
