@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwstas</h1>
 <p align="center">3rd year CS Student studying at AUEB</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/konstantinos-tsoulas-375079213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/konstantinos-eleutheriou)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
