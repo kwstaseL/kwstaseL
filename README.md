@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwstas</h1>
-<p align="center">3rd year CS Student studying at AUEB</p>
+<p align="center">Undergraduate IT Student at AUEB</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/konstantinos-eleutheriou)
 
